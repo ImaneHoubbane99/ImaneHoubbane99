@@ -28,7 +28,7 @@ I'm a Network/Security and DevOps Engineer based in Nice, France. With a strong 
 - DevOps Foundation
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn]([https://www.linkedin.com/in/imane-houbbane/])
 - [Portfolio](https://yourportfolio.com)
 - Email: ihoubbane@gmail.com
 
