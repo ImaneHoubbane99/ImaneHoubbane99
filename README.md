@@ -1,7 +1,7 @@
 # Imane Houbbane
 
 ## 👋 About Me
-I'm a Network/Security and DevOps Engineer based in Nice, France. With a strong background in cybersecurity and distributed systems, I'm passionate about building secure and scalable infrastructure. I love automating processes and exploring new technologies in the DevOps ecosystem.
+I'm a Network/Security and DevOps Engineer based in Paris, France. With a strong background in cybersecurity and distributed systems, I'm passionate about building secure and scalable infrastructure. I love automating processes and exploring new technologies in the DevOps ecosystem.
 
 ## 🚀 Featured Projects
 
