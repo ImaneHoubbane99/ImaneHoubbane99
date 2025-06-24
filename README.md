@@ -23,7 +23,7 @@ I'm a Network/Security and DevOps Engineer based in Nice, France. With a strong 
 
 ## 📜 Certifications
 - CKA: Certified Kubernetes Administrator
-- CKAD: Certified Kubernetes Applications Developer
+- CKAD: Certified Kubernetes Application Developer
 - Microsoft Azure Administrator (AZ-100)
 - Microsoft Azure Fundamentals (AZ-900)
 - HashiCorp Certified: Terraform Associate
